@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Emmanuel.
 My mission is to help create software that enhances other people's lives.
 
-### Current projects that I'm working:
+### Projects that I'm currentl working on:
 - password-manager
 - personal-blog-site
 
