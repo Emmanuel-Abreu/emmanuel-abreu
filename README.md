@@ -1,6 +1,15 @@
 ### Hi there 👋. I'm Emmanuel.
 My mission is to help create software that enhances other people's lives.
 
+### Current projects that I'm working:
+- password-manager
+- personal-blog-site
+
+### Contact me:
+* Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
+* Twitter: [https://twitter.com/EmmanuelAbreu01](https://twitter.com/EmmanuelAbreu01)
+* Email: risedev01@gmail.com
+
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
