@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. I'm Emmanuel.
+My mission is to help create software that enhances other people's lives.
 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
