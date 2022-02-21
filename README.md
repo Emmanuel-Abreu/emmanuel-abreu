@@ -8,7 +8,7 @@ My mission is to create software that enhances other people's lives.
 ### Contact me:
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 * Twitter: [https://twitter.com/EmmanuelAbreu01](https://twitter.com/EmmanuelAbreu01)
-* Email: risedev01@gmail.com
+* Email: eabreue1@gmail.com
 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
