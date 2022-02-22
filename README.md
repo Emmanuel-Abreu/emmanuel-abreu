@@ -1,11 +1,16 @@
 ### Hi there 👋. I'm Emmanuel, a software developer.
 My mission is to create software that enhances other people's lives.
 
-### Projects that I'm currently working on:
-- password-manager
-- personal-blog-site
+### 🔭 Projects that I'm currently working on:
+- website templates, components
+- static websites
 
-### Contact me:
+### 🌱 I’m currently learning about:
+- HTML
+- CSS, Bootstrap
+- JavaScript
+
+### 📫 How to reach me:
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 * Twitter: [https://twitter.com/EmmanuelAbreu01](https://twitter.com/EmmanuelAbreu01)
 * Email: eabreue1@gmail.com
