@@ -6,9 +6,15 @@ My mission is to create software that enhances other people's lives.
 - static websites
 
 ### 🌱 I’m currently learning about:
+
+### Currently have experience with these language, tools and frameworks:
 - HTML
-- CSS, Bootstrap
+- CSS
+- SQL
+
 - JavaScript
+- React.js
+- Node.js
 
 ### 📫 How to reach me:
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
