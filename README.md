@@ -2,8 +2,6 @@
 My mission is to create software that enhances other people's lives.
 
 ### 🔭 Projects that I'm currently working on:
-- website templates, components
-- static websites
 
 ### 🌱 I’m currently learning about:
 
@@ -11,8 +9,8 @@ My mission is to create software that enhances other people's lives.
 - HTML
 - CSS
 - SQL
-
 - JavaScript
+
 - React.js
 - Node.js
 
