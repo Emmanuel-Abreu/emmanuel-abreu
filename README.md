@@ -6,15 +6,10 @@ My mission is to create software that enhances other people's lives.
 ### 🌱 I’m currently learning about:
 
 ### Currently have experience with these language, tools and frameworks:
-- HTML
-- CSS
-- SQL
-- JavaScript
-
-- React.js
-- Node.js
+- HTML, CSS, JavaScript, SQL, Figma
 
 ### 📫 How to reach me:
+* [https://emmanuel-abreu.dev](emmanuel-abreu.dev/contact/)
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 * Twitter: [https://twitter.com/EmmanuelAbreu01](https://twitter.com/EmmanuelAbreu01)
 * Email: eabreue1@gmail.com
