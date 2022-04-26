@@ -4,6 +4,7 @@ My mission is to create software that enhances other people's lives.
 ### 🔭 Projects that I'm currently working on:
 
 ### 🌱 I’m currently learning about:
+- Webpack, React.js, Node.js
 
 ### Currently have experience with these language, tools and frameworks:
 - HTML, CSS, JavaScript, SQL, Figma
