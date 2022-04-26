@@ -12,7 +12,7 @@ My mission is to create software that enhances other people's lives.
 - HTML, CSS, JavaScript, SQL, Figma
 
 ### 📫 How to reach me:
-* [https://emmanuel-abreu.dev](emmanuel-abreu.dev/contact/)
+* [https://www.emmanuel-abreu.dev](emmanuel-abreu.dev/contact/)
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 * Twitter: [https://twitter.com/EmmanuelAbreu01](https://twitter.com/EmmanuelAbreu01)
 * Email: eabreue1@gmail.com
