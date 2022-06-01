@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Emmanuel, a software developer.
 My mission is to create software that enhances other people's lives.
 
-### Currently enrolled in the Odin Project
+### Currently learning through the Odin Project
 
 ### 🔭 Projects that I'm currently working on:
 
