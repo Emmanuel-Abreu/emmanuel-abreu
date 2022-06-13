@@ -12,10 +12,10 @@ My mission is to create software that enhances other people's lives.
 - HTML, CSS, JavaScript, SQL, Figma
 
 ### 📫 How to reach me:
-* My Contact Page[https://www.emmanuel-abreu.dev](emmanuel-abreu.dev/contact/)
-* Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 * LinkedIn: [https://www.linkedin.com/in/emmanuel-abreu-2b0175187/](https://www.linkedin.com/in/emmanuel-abreu-2b0175187/)
+* My Contact Page [https://www.emmanuel-abreu.dev](emmanuel-abreu.dev/contact/)
 * Email: eabreue1@gmail.com
+* Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
