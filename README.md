@@ -17,7 +17,7 @@ My mission is to create software that enhances other people's lives.
 
 ### 📫 How to reach me:
 * LinkedIn: [https://www.linkedin.com/in/emmanuel-abreu-2b0175187/](https://www.linkedin.com/in/emmanuel-abreu-2b0175187/)
-* My Contact Page [https://www.emmanuel-abreu.dev](emmanuel-abreu.dev/contact/)
+* My Contact Page [https://www.emmanuel-abreu.dev/contact](emmanuel-abreu.dev/contact/)
 * Email: eabreue1@gmail.com
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 * Github: [https://github.com/Emmanuel-Abreu/emmanuel-abreu/](https://github.com/Emmanuel-Abreu/emmanuel-abreu/)
