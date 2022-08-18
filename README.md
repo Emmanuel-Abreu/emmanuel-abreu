@@ -15,7 +15,7 @@ My mission is to create software that enhances other people's lives.
 - Java, C++, Python, HTML, CSS, JavaScript, SQL, Git, Figma, 
 - Windows OS, Mac OS, and Ubuntu Linux through a Virtual Machine
 
-### 📫 How to reach me:
+### 📫 Links/where to contact me:
 * LinkedIn: [https://www.linkedin.com/in/emmanuel-abreu-2b0175187/](https://www.linkedin.com/in/emmanuel-abreu-2b0175187/)
 * My Contact Page [https://www.emmanuel-abreu.dev/contact](emmanuel-abreu.dev/contact/)
 * Email: eabreue1@gmail.com
