@@ -3,7 +3,7 @@ My mission is to create software that enhances other people's lives.
 
 ### Currently learning through the Odin Project
 
-### 🔭 Projects that I'm currently working on/in progress:
+### 🔭 Projects that I want to work on:
 - custom CMS for blogs/posting
 - Finance/budgeting application that can connect with other external APIs
 - Dashboard/bulletin board with custom plugins
