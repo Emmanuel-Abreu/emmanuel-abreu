@@ -1,21 +1,21 @@
-### Hi there 👋. I'm Emmanuel, a software developer.
+### Hi there. I'm Emmanuel, a software developer.
 My mission is to create software that enhances other people's lives.
 
 ### Currently learning through the Odin Project
 
-### 🔭 Projects that I want to work on:
+### Projects that I want to work on:
 - custom CMS for blogs/posting
 - Finance/budgeting application that can connect with other external APIs
 - Dashboard/bulletin board with custom plugins
 
-### 🌱 I’m currently learning about:
+### I’m currently learning about:
 - React.js, Node.js
 
 ### I have worked with these language, tools and frameworks:
 - Java, C++, Python, HTML, CSS, JavaScript, SQL, Git, Figma, 
 - Windows OS, Mac OS, and Ubuntu Linux through a Virtual Machine
 
-### 📫 Links/where to contact me:
+### Links/where to contact me:
 * LinkedIn: [https://www.linkedin.com/in/emmanuel-abreu-2b0175187/](https://www.linkedin.com/in/emmanuel-abreu-2b0175187/)
 * My Contact Page [https://www.emmanuel-abreu.dev/contact](emmanuel-abreu.dev/contact/)
 * Email: eabreue1@gmail.com
