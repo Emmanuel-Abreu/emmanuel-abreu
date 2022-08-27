@@ -4,12 +4,12 @@ My mission is to create software that enhances other people's lives.
 ### Currently learning through the Odin Project
 
 ### Projects that I want to work on:
-- custom CMS for blogs/posting
-- Finance/budgeting application that can connect with other external APIs
+
+- Finance/budgeting application
 - Dashboard/bulletin board with custom plugins
 
 ### I’m currently learning about:
-- React.js, Node.js
+- TypeScript, React.js
 
 ### I have worked with these language, tools and frameworks:
 - Java, C++, Python, HTML, CSS, JavaScript, SQL, Git, Figma, 
