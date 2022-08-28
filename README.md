@@ -1,4 +1,4 @@
-### Hi there. I'm Emmanuel, a software developer.
+### Hello. I'm Emmanuel, a front-end developer.
 My mission is to create software that enhances other people's lives.
 
 ### Currently learning through the Odin Project
