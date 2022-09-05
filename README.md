@@ -1,15 +1,9 @@
 ### Hello. I'm Emmanuel, a front-end developer.
 My mission is to create software that enhances other people's lives.
 
-### Currently learning through the Odin Project
-
 ### Projects that I want to work on:
 
-- Finance/budgeting application
-- Dashboard/bulletin board with custom plugins
-
 ### I’m currently learning about:
-- TypeScript, React.js
 
 ### I have worked with these language, tools and frameworks:
 - Java, C++, Python, HTML, CSS, JavaScript, SQL, Git, Figma, 
