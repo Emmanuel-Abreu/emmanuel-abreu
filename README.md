@@ -1,10 +1,10 @@
 ### Hello. I'm Emmanuel, a front-end developer.
 My mission is to create software that enhances other people's lives.
 
-### Projects that I want to work on:
-- The Odin Project
+### Currently finishing The Odin Project
 
 ### I’m currently learning about:
+TypeScript, Reactjs
 
 ### I have worked with these language, tools and frameworks:
 - Java, C++, Python, HTML, CSS, JavaScript, SQL, Git, Figma, 
@@ -12,7 +12,7 @@ My mission is to create software that enhances other people's lives.
 
 ### Links/where to contact me:
 * LinkedIn: [https://www.linkedin.com/in/emmanuel-abreu-2b0175187/](https://www.linkedin.com/in/emmanuel-abreu-2b0175187/)
-* My Contact Page [https://www.emmanuel-abreu.dev/contact](emmanuel-abreu.dev/contact/)
+<!-- * My Contact Page [https://www.emmanuel-abreu.dev/contact](emmanuel-abreu.dev/contact/) -->
 * Email: eabreue1@gmail.com
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
 * Github: [https://github.com/Emmanuel-Abreu/emmanuel-abreu/](https://github.com/Emmanuel-Abreu/emmanuel-abreu/)
