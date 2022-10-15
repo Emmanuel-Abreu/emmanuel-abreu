@@ -2,12 +2,13 @@
 My mission is to create software that enhances other people's lives.
 
 ### Projects that I want to work on:
+- The Odin Project
 
 ### I’m currently learning about:
 
 ### I have worked with these language, tools and frameworks:
 - Java, C++, Python, HTML, CSS, JavaScript, SQL, Git, Figma, 
-- Windows OS, Mac OS, and Ubuntu Linux through a Virtual Machine
+- Windows OS, Mac OS, and Ubuntu Linux
 
 ### Links/where to contact me:
 * LinkedIn: [https://www.linkedin.com/in/emmanuel-abreu-2b0175187/](https://www.linkedin.com/in/emmanuel-abreu-2b0175187/)
