@@ -15,7 +15,7 @@ TypeScript, Reactjs
 <!-- * My Contact Page [https://www.emmanuel-abreu.dev/contact](emmanuel-abreu.dev/contact/) -->
 * Email: eabreue1@gmail.com
 * Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
-* Github: [https://github.com/Emmanuel-Abreu/emmanuel-abreu/](https://github.com/Emmanuel-Abreu/emmanuel-abreu/)
+* Github: [https://github.com/Emmanuel-Abreu/](https://github.com/Emmanuel-Abreu/)
 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
