@@ -1,8 +1,9 @@
-### Hello. I'm Emmanuel, a front-end developer.
+### Hello. I'm Emmanuel, a software developer.
 My mission is to create software that enhances other people's lives.
 
 ### I have experience with these language, tools and frameworks:
-- Java, C++, Python, HTML, CSS, JavaScript, SQL, Git, Figma, 
+- HTML, CSS, JavaScript, Git, Figma
+- Java, C++, Python, SQL 
 - Windows OS, Mac OS, and Ubuntu Linux
 
 ### Links/where to contact me:
