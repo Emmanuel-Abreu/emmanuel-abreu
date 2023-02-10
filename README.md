@@ -1,17 +1,10 @@
 ### Hello. I'm Emmanuel, a software developer.
-My mission is to create software that enhances other people's lives.
+My mission is to create software that enhances people's lives.
 
 ### I have experience with these language, tools and frameworks:
-- HTML, CSS, JavaScript, Git, Figma
-- Java, C++, Python, SQL 
+- HTML, CSS, JavaScript/TypeScript, React, Firebase
+- Java, C++, SQL
 - Windows OS, Mac OS, and Ubuntu Linux
-
-### Links/where to contact me:
-* LinkedIn: [https://www.linkedin.com/in/emmanuel-abreu-2b0175187/](https://www.linkedin.com/in/emmanuel-abreu-2b0175187/)
-<!-- * My Contact Page [https://www.emmanuel-abreu.dev/contact](emmanuel-abreu.dev/contact/) -->
-* Email: eabreue1@gmail.com
-* Instagram: [https://www.instagram.com/emmanuelabreu01/](https://www.instagram.com/emmanuelabreu01/)
-* Github: [https://github.com/Emmanuel-Abreu/](https://github.com/Emmanuel-Abreu/)
 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
