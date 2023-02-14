@@ -1,5 +1,4 @@
 ### Hello. I'm Emmanuel, a software developer.
-My mission is to create software that enhances people's lives.
 
 [![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuel-abreu&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/emmanuel-abreu/github-readme-stats)
 [![Emmanuel's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emmanuel_abreu/)](https://github.com/emmanuel-abreu/github-readme-stats)
