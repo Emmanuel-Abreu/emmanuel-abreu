@@ -1,6 +1,7 @@
 ### Hello. I'm Emmanuel, a software developer.
 My mission is to create software that enhances people's lives.
 
+[![Emmanuel's GitHub Stats](https://github.com/emmanuel-abreu/github-readme-stats)](https://github-readme-stats.vercel.app/api?username=emmanuel-abreu)
 ### I have experience with these language, tools and frameworks:
 - HTML, CSS, JavaScript/TypeScript, React, Firebase
 - Java, C++, SQL
