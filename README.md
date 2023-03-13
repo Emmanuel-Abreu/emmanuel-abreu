@@ -1,7 +1,6 @@
 ### Hello. I'm Emmanuel, a software developer.
 
 [![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuel-abreu&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/emmanuel-abreu/github-readme-stats)
-[![Emmanuel's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=emmanuel_abreu/)](https://github.com/emmanuel-abreu/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-abreu&layout=compact)](https://github.com/emmanuel-abreu/github-readme-stats)
 
 ## I have experience with these languages, tools and frameworks:
