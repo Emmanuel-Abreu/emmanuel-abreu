@@ -42,10 +42,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuel-abreu&show_icons=true&locale=en&layout=compact" alt="emmanuel-abreu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuel-abreu&show_icons=true&locale=en" alt="emmanuel-abreu" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-abreu&" alt="emmanuel-abreu" /></p>
 
 <!--
