@@ -2,6 +2,7 @@
 
 [![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuel-abreu&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/emmanuel-abreu/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-abreu&layout=compact)](https://github.com/emmanuel-abreu/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-abreu&" alt="emmanuel-abreu" /></p>
 
 ## I have experience with these languages, tools and frameworks:
 
@@ -41,8 +42,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-abreu&" alt="emmanuel-abreu" /></p>
 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
