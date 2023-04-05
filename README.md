@@ -2,9 +2,6 @@
 
 [![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmanuel-abreu&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/emmanuel-abreu/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-abreu&layout=compact)](https://github.com/emmanuel-abreu/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuel-abreu&" alt="emmanuel-abreu" /></p>
-
-## I have experience with these languages, tools and frameworks:
 
 ### Front-End Languages / Tools / Frameworks:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
