@@ -28,8 +28,9 @@
 
 ### Current projects:
 - [your-pages](https://github.com/emmanuel-abreu/your-pages/), a tool for bookmarking content on the internet for later access
-- mayamooncounseling.net
-- appointment-setting-application
+<!-- appointment-setting-application
+  
+-->
 
 ### Tecnologies I want to learn in 2023:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
