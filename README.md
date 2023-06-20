@@ -26,9 +26,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+<!-- 
 ### Current projects:
-- [your-pages](https://github.com/emmanuel-abreu/your-pages/), a tool for bookmarking content on the internet for later access
-<!-- appointment-setting-application
+appointment-setting-application
   
 -->
 
