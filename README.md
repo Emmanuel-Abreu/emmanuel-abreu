@@ -16,6 +16,8 @@
 ### Databases:
 ![SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 - Firebase
+- MongoDB
+- 
 
 ### OS's:
 ![Windows OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -32,12 +34,13 @@ appointment-setting-application
   
 -->
 
-### Tecnologies I want to learn in 2023:
+###Currently learning:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+aws, cloud engineering, 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
