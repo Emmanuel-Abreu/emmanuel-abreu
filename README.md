@@ -1,4 +1,4 @@
-### Hello. I'm Emmanuel, a web developer.
+### Hello. I'm Emmanuel, a software developer.
 
 ### Front-End Languages / Tools / Frameworks:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,7 +17,6 @@
 ![SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 - Firebase
 - MongoDB
-- 
 
 ### OS's:
 ![Windows OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -30,8 +29,9 @@
 
 <!-- 
 ### Current projects:
-appointment-setting-application
-  
+password-manager
+portfolio
+coursera
 -->
 
 ###Currently learning:
@@ -40,7 +40,6 @@ appointment-setting-application
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-aws, cloud engineering, 
 <!--
 **Emmanuel-Abreu/emmanuel-abreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
