@@ -1,4 +1,4 @@
-### Hello. I'm Emmanuel, a software developer.
+### I'm Emmanuel, a software developer.
 
 ### Languages / Tools / Frameworks:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
