@@ -15,7 +15,6 @@
 
 ### Databases:
 ![SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-- Firebase
 - MongoDB
 
 ### OS's:
